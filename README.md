@@ -1,5 +1,3 @@
-# Jogo da Cobrinha
+# Python Snake Game
 
-Jogo da cobrinha feito com pygame.
-
-Vídeo no YouTube - https://youtu.be/DQsQF75I4mE
+Snake game made with Pygame.
